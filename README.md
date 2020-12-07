@@ -3,13 +3,15 @@
 # CS4331 Project 2 Report
 Remade my Project 1 that used glitch/aframe to unity, due to unfortunate circumstances.
 
-For this Project I had the task of implementing my Project 1 environment using unity instead of glitch/aframe. 
+For this Project I had the task of implementing my Project 1 environment using unity instead of glitch/aframe. I made a 3-minute demo as instructed by Professor Dang linked below. 
+
 There are some small changes that I decided to make to the project to make it a little different/smoother. I decided to make the door opening animation different as well as the way that the user interacts with the door. In the first project the user was able to hover over and click on buttons to open and close the door, but in this project I decided it would be simpler/cooler to have the user walk over certain things to cause the door to open and close without the user clicking anything. The user has some smal text in the starting room so they are able to tell how to open and close the door as well as change the color of the lights. Another small thing that I decided to implement is gravity for the user, when the demo is started the user is on top of the bed that I made and they are able to step off to the ground, its small but another thing I wanted to implement in unity. There is also the rotating rubiks cube that has a rotating script attached to it, so that it rotates at certain x, y, and z coordinates. 
 
 [Demo Video](https://youtu.be/uWThQMeh--8)
 
 Starting Room/Bed Room
-At the start the user is able to see the text that lets them know how to operate the lights as well as the door. 
+
+At the start the user is able to see text that will describe how they can move and interact with the environment around them. 
 
 ![](images/Startingroom1.JPG)
 
@@ -20,15 +22,12 @@ At the start the user is able to see the text that lets them know how to operate
 
 
 Kitchen/Living Room
+
 ![](images/Otherroom1.JPG)
 
 ![](images/otherroom2.JPG)
 
 ![](images/otherroom3.JPG)
-
-
-
-
 
 
 
