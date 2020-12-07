@@ -23,7 +23,7 @@ At the start the user is able to see the text that lets them know how to operate
 Kitchen/Living Room
 ![](images/Otherroom1.JPG)
 
-![](images/otherroom 2.JPG)
+![](images/otherroom2.JPG)
 
 ![](images/otherroom3.JPG)
 
