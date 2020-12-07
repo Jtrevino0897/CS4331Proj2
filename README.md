@@ -11,9 +11,10 @@ Demo Video
 
 Starting Room/Bed Room
 At the start the user is able to see the text that lets them know how to operate the lights as well as the door. 
-![](images/Starting room1.JPG)
 
-![](images/starting room2.JPG)
+![](images/Startingroom1.JPG)
+
+![](images/startingroom2.JPG)
 
 
 
@@ -22,7 +23,7 @@ At the start the user is able to see the text that lets them know how to operate
 Kitchen/Living Room
 ![](images/Otherroom1.JPG)
 
-![](images/other room 2.JPG)
+![](images/otherroom 2.JPG)
 
 ![](images/otherroom3.JPG)
 
